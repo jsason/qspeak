@@ -1,0 +1,11 @@
+#social_vertical {
+  position: absolute;
+  left: 28px;
+  top: 40%;
+}
+
+#social_vertical > a:hover {
+  color: gray !important;
+  text-decoration: none;
+}
+
